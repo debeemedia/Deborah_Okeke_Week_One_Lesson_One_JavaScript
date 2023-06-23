@@ -40,3 +40,5 @@ if (check) {
 } else {
   console.log('this is false')
 }
+
+// Along with Boolean false, the values of undefined, null, 0, NaN and empty string ('') get coerced to "false". Every other value is truthy
